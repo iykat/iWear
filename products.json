@@ -1,0 +1,69 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "earth jordan",
+          "price": 10.99,
+          "image": { "fields": { "file": { "url": "./assets/img/pink.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "king James 9'",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./assets/img/green.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "ye2 yeezy",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./assets/img/pink.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "yeezy 19",
+          "price": 22.99,
+          "image": { "fields": { "file": { "url": "./assets/img/pink.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "air jordan",
+          "price": 88.99,
+          "image": { "fields": { "file": { "url": "./assets/img/green.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "nike airforce",
+          "price": 32.99,
+          "image": { "fields": { "file": { "url": "./assets/img/pink.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "lebron james",
+          "price": 45.99,
+          "image": { "fields": { "file": { "url": "./assets/img/pink.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "force 812",
+          "price": 33.99,
+          "image": { "fields": { "file": { "url": "./assets/img/green.jpeg" } } }
+        }
+      }
+    ]
+  } 
+ 
