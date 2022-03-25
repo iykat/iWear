@@ -59,7 +59,7 @@
   /* --------------- Hero ---------------- */
   .hero {
     min-height: calc(100vh - 60px);
-    background: url('/assets/img/red.avif') center/cover no-repeat;
+    background: url('/assets/img/red.jpg') center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
